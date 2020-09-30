@@ -1,3 +1,4 @@
 # readem
 
-<a href ="ubo://subscribe?location=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Fantiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List">
+click **[SUBSCRIBE]<adp:subscribe?location=https://raw.githubusercontent.com/anon9931/ub/master/filter.txt&title=Filters%20by%20anon9931>**
+<a href="https://subscribe?location=https://raw.githubusercontent.com/anon9931/ub/master/filter.txt&title=Filters%20by%20anon9931"> </a>
